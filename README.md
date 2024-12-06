@@ -18,7 +18,7 @@
 - [Security & Authentication](#security--authentication)
 - [Future Improvements](#future-improvements)
 - [Repository Links](#repository-links)
-- [License](#license)
+- [Deployed Link](#deployed-link)
 
 ---
 
@@ -183,5 +183,5 @@ The architecture is built on a microservices paradigm, with each service dedicat
 
 ---
 
-## License
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+## Deployed Link
+- **Production Deployment:** [RUBot](https://rubot-frontend-b4tklbu0k-adwaits-projects-0f65dd73.vercel.app/)
