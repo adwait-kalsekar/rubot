@@ -1,5 +1,5 @@
 # RUbot: AI-Enabled University Information and Academic Companion
-> Go to [RUbot]((rubot.up.railway.app))
+> Go to [RUbot](https://rubot.up.railway.app)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -185,4 +185,4 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Deployed Link
-- **Production Deployment:** [RUBot](rubot.up.railway.app)
+- **Production Deployment:** [RUbot](https://rubot.up.railway.app)
