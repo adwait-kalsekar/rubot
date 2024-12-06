@@ -1,4 +1,4 @@
-# Project Title: AI-Enabled University Information and Academic Companion
+# RUBot: AI-Enabled University Information and Academic Companion
 
 ## Table of Contents
 - [Overview](#overview)
