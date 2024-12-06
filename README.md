@@ -28,7 +28,7 @@ This project is a comprehensive solution designed to streamline the academic exp
 ---
 
 ## Description
-This solution was developed as a capstone submission for the Advanced Database Course in the Master’s of Information Technology and Analytics program at Rutgers Business School. It demonstrates:
+This solution was developed as a final project submission for the Advanced Database Course in the Master’s of Information Technology and Analytics program at Rutgers Business School. It demonstrates:
 - Modern **database techniques** (MongoDB, PostgreSQL, Vector Databases)
 - **Cloud-native** microservices architecture for modularity and scalability
 - Integration of **LLM-based AI agents** capable of retrieving academic data, performing vector searches, and interacting with external APIs (e.g., Canvas)
@@ -184,4 +184,4 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Deployed Link
-- **Production Deployment:** [RUBot](https://rubot-frontend.vercel.app/)
+- **Production Deployment:** [RUBot](https://rubot.vercel.app/)
