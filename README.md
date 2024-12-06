@@ -184,4 +184,4 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Deployed Link
-- **Production Deployment:** [RUBot](https://rubot-frontend-b4tklbu0k-adwaits-projects-0f65dd73.vercel.app/)
+- **Production Deployment:** [RUBot](https://rubot-frontend.vercel.app/)
