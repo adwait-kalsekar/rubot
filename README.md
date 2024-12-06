@@ -70,7 +70,7 @@ The architecture is built on a microservices paradigm, with each service dedicat
   - Secure token handling (via JWT) for authenticated routes  
   - Smooth user journey from login to chat interface
 
-**Repository:** [Frontend Application](https://github.com/your-org/frontend-repo)
+**Repository:** [Frontend Application](https://github.com/adwait-kalsekar/rubot-frontend)
 
 ---
 
@@ -83,7 +83,7 @@ The architecture is built on a microservices paradigm, with each service dedicat
   - MongoDB for document-based data persistence
   - JWT issuance and verification for secure, stateless authentication
 
-**Repository:** [Auth Service](https://github.com/your-org/auth-service-repo)
+**Repository:** [Auth Service](https://github.com/adwait-kalsekar/rubot-auth-backend)
 
 ---
 
@@ -97,7 +97,7 @@ The architecture is built on a microservices paradigm, with each service dedicat
   - PostgreSQL for structured, relational data storage (optimized for querying message histories)
   - Integrates with GenAI to fetch AI responses dynamically
 
-**Repository:** [Chat Service](https://github.com/your-org/chat-service-repo)
+**Repository:** [Chat Service](https://github.com/adwait-kalsekar/rubot-chat-backend)
 
 ---
 
@@ -144,12 +144,14 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Deployment & Infrastructure
-- **Cloud Deployment:**
-  - Each service can be containerized (Docker) and deployed on a cloud provider
-  - Horizontal scaling and load balancing for high availability
-- **Configuration & Secrets:**
-  - Environment variables for DB credentials, JWT secrets, and API keys
-  - Infrastructure as Code (IaC) for reproducible deployments (e.g., Terraform, CloudFormation)
+- **Backend Services (Auth, Chat, GenAI):** Deployed on **Railway**, a managed cloud platform that simplifies continuous deployment and scaling.
+- **Frontend (Next.js):** Deployed on **Vercel**, providing instant global edge network distribution and effortless CI/CD.
+- **Static/Media Content:** User profile pictures are stored on **Cloudinary**, a managed S3-like storage solution, ensuring reliable, fast, and scalable media delivery.
+
+**Infrastructure Highlights:**
+- Containerized services for consistent environments
+- Environment variables stored and managed securely
+- Horizontal scaling supported by Railway and Vercel's automatic scaling features
 
 ---
 
@@ -175,9 +177,9 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Repository Links
-- **Frontend:** [https://github.com/your-org/frontend-repo](https://github.com/your-org/frontend-repo)
-- **Auth Service:** [https://github.com/your-org/auth-service-repo](https://github.com/your-org/auth-service-repo)
-- **Chat Service:** [https://github.com/your-org/chat-service-repo](https://github.com/your-org/chat-service-repo)
+- **Frontend:** [https://github.com/your-org/frontend-repo](https://github.com/adwait-kalsekar/rubot-frontend)
+- **Auth Service:** [https://github.com/your-org/auth-service-repo](https://github.com/adwait-kalsekar/rubot-auth-backend)
+- **Chat Service:** [https://github.com/your-org/chat-service-repo](https://github.com/adwait-kalsekar/rubot-chat-backend)
 
 ---
 
