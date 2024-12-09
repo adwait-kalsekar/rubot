@@ -178,9 +178,9 @@ The architecture is built on a microservices paradigm, with each service dedicat
 ---
 
 ## Repository Links
-- **Frontend:** [https://github.com/your-org/frontend-repo](https://github.com/adwait-kalsekar/rubot-frontend)
-- **Auth Service:** [https://github.com/your-org/auth-service-repo](https://github.com/adwait-kalsekar/rubot-auth-backend)
-- **Chat Service:** [https://github.com/your-org/chat-service-repo](https://github.com/adwait-kalsekar/rubot-chat-backend)
+- **Frontend:** [https://github.com/adwait-kalsekar/rubot-frontend](https://github.com/adwait-kalsekar/rubot-frontend)
+- **Auth Service:** [https://github.com/adwait-kalsekar/rubot-auth-backend](https://github.com/adwait-kalsekar/rubot-auth-backend)
+- **Chat Service:** [https://github.com/adwait-kalsekar/rubot-chat-backend](https://github.com/adwait-kalsekar/rubot-chat-backend)
 
 ---
 
